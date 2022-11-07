@@ -1,0 +1,17 @@
+h1 {
+    color: darkred;
+    background: burlywood;
+}
+p {
+    color: brown;
+    background-color:coral;
+}
+ul {
+    color: chocolate;
+}
+ol {
+    color: darkgreen;
+}
+ol a {
+    color: darkgreen;
+}
