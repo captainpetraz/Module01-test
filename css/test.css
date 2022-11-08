@@ -1,4 +1,4 @@
-.body {
+body {
     font-family: 'Roboto', sans-serif;
     line-height: 1.5;
 }
@@ -48,6 +48,6 @@ ul > li {
 .post {
     padding-bottom: 20px;
 }
-.footer {
+footer {
     font-size: 13px;
 }
